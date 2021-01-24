@@ -34,5 +34,5 @@ What statistical test would you use to test the hypothesis? And why? I will util
 
 What data is needed to run the statistical test? We will need the weight and mpg data of MegaCar and its competitors. We will utilize a sample 'sample_n()' of dataset to ensure that we have a equal representation of their dataset.
 
-### MechCar Limear Regression Model Summary
+### MechCar Linear Regression Model Summary
 <img src ='https://github.com/osbornej-tech/MechaCar_Statistical_Analysis/blob/main/images/Linear_regression_model_summary.png'>
