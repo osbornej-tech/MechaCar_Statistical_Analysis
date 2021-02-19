@@ -22,7 +22,7 @@ The design specifications for the MechaCar suspension coils dictate that the var
 The T-test on suspension coils demonstrate that Lots 1 and 2 are not statistically different from the population mean whose p-values are 1 and 0.60 respectively. Lot 3 is statistically signifcant as the p-value is 0.04.
 
 ## Study Design: MechaCar vs Competition
-According to the Linear Regression Model Summary that assess the mechanics of the cars in the data set, the fields vehicle_legnth and ground clearance were statistically significant as the p value was less than .05.
+According to the Linear Regression Model Summary that assess the mechanics of the cars in the data set, the fields vehicle_length and ground clearance were statistically significant as the p value was less than .05.
 
 Assessing the vehicle weight and mpg are crucial factors to assess as individuals hope to have a vehicle that are fuel efficient. Furthermore, as a manufacturer it is important for MechaCar to identify parts makers that allow their product to be efficient and effective in increasing mpg. 
 
